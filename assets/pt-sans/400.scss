@@ -2,5 +2,12 @@
     font-family: "PT Sans";
     font-display: swap;
 	font-weight: 400;
-    src: url('/assets/typho/pt-sans/400.ttf') format('truetype');
+    src: url('/assets/typho/pt-sans/normal/400.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "PT Sans";
+    font-display: swap;
+	font-weight: 400;
+    src: url('/assets/typho/pt-sans/italic/400.ttf') format('truetype');
 }
